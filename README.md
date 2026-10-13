@@ -1,21 +1,20 @@
-# منصة API خلفية قابلة للتوسع للتجارة الإلكترونية
-**Scalable E-Commerce Backend API Platform** · التصنيف: خلفية (Backend)
+# Scalable E-Commerce Backend API Platform
+**Scalable E-Commerce Backend API Platform** · Classification: Backend
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-API للبيع متعدد الموردين يتعامل مع أكثر من 100,000 طلب يومياً.
+## Project overview
+Multi-vendor sales API handling over 100,000 orders per day.
 
-## أبرز النقاط
-- JWT + OAuth2 مع تدوير Refresh Token
-- استجابة أقل من 100ms عبر Redis + Dapper
-- Kubernetes مع HPA
+## Highlights
+- JWT + OAuth2 with Refresh Token rotation
+- Sub-100ms responses via Redis + Dapper
+- Kubernetes with HPA
 
-## الدور
-مطوّر Backend: تصميم وبناء الخدمات الخلفية وواجهات API، وإدارة قواعد البيانات والتخزين المؤقت، وتنفيذ المصادقة والأمان وتحسين الأداء.
+## Role
+Backend Developer: design and build backend services and APIs, manage databases and caching, implement authentication and security, and optimize performance.
 
-## التقنيات المستخدمة
+## Technologies used
 ASP.NET Core, EF Core, Dapper, PostgreSQL, Redis, Docker, Kubernetes, Swagger
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

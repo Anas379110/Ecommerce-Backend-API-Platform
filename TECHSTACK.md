@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — منصة API خلفية قابلة للتوسع للتجارة الإلكترونية
+# 🛠️ Tech Stack — Scalable E-Commerce Backend API Platform
 
 - ASP.NET Core
 - EF Core
